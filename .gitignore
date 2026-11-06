@@ -1,0 +1,6 @@
+# Books are published as Release assets, never committed
+*.pdf
+*.PDF
+*.epub
+*.zip
+.DS_Store
